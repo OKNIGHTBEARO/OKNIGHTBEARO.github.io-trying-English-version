@@ -12,7 +12,7 @@
         <ul>
             <li><a href="https://oknightbearo.github.io/OKNIGHTBEARO.github.io-trying/">branch 0 :Chinese version</a></li>
             <li><a href="https://www.youtube.com/@bearooknight2224/featured">branch 1 :Youtube Channel❤️</a></li>
-            <li><a href="英文版自我介紹">branch 2 :About me🐧</a></li>
+            <li><a href="https://oknightbearo.github.io/OKNIGHTBEARO.github.io-self-introduction-English-version/">branch 2 :About me🐧</a></li>
             <li><a href="https://oknightbearo.github.io/OKNIGHTBEARO.github.io-life-experience-English-version/">branch 3 :My life experiences🌲</a></li>
             <li><a href="#">branch 4:</a></li>
             <li><a href="#">branch 5:</a></li>
